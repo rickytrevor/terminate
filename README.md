@@ -1,2 +1,3 @@
 # terminate
-an useful program to kill all the processes by the name 
+A program that kills all the processes by the name
+
